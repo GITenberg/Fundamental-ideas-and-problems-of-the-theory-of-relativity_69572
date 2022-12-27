@@ -1,0 +1,29 @@
+_repo: Fundamental-ideas-and-problems-of-the-theory-of-relativity_69572
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Einstein, Albert
+    birthdate: 1879
+    deathdate: 1955
+    gutenberg_agent_id: '1630'
+    url: http://www.gutenberg.org/2009/agents/1630
+    wikipedia: https://en.wikipedia.org/wiki/Albert_Einstein
+description: ''
+gutenberg_issued: '2022-12-18'
+identifiers:
+  gutenberg: '69572'
+language: en
+pgterms:marc904: https://www.nobelprize.org/prizes/physics/1921/einstein/lecture/
+pgterms:marc905: 20221216023346einstein
+pgterms:marc906: '1923'
+pgterms:marc907: SE
+production_note: Laura Natal Rodrigues (Images generously made available by the Nobel
+  Foundation.)
+publication_note: 'Sweden: Nobel Foundation,1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Fundamental ideas and problems of the theory of relativity
+url: http://www.gutenberg.org/ebooks/69572
