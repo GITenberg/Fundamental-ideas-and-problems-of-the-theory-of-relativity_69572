@@ -1,5 +1,8 @@
 _repo: Fundamental-ideas-and-problems-of-the-theory-of-relativity_69572
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69572-h/images/cover.jpg
 creator:
   author:
     agent_name: Einstein, Albert
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1630
     wikipedia: https://en.wikipedia.org/wiki/Albert_Einstein
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69572#Fundamental-ideas-and-problems-of-the-theory-of-relativity
 gutenberg_issued: '2022-12-18'
 identifiers:
   gutenberg: '69572'
